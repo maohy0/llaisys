@@ -1,10 +1,5 @@
 # 欢迎使用 LLAISYS
 
-<p align="center">
-<a href="README.md" target="README.md">English</a> ｜
-<a href="README_ZN.md" target="README_ZN.md">中文</a>
-</p>
-
 ## 简介
 
 LLAISYS（Let's Learn AI SYStem）是一个教育项目，旨在为新手和未来的AI工程师提供一个从零开始构建AI系统的学习平台。LLAISYS包含多个作业，帮助学生学习和构建基础模块；以及一些项目挑战，让他们为系统添加更多高级功能。LLAISYS使用C++作为系统后端的主要编程语言，并编译成共享库，提供C语言API。前端代码使用Python编写，调用这些API以提供更便捷的测试和与其他架构（如PyTorch）的交互。
